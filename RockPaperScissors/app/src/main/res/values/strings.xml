@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="key1">key1</string>
+    <string name="key2">key2</string>
+    <string name="key3">key3</string>
+    <string name="key4">key4</string>
+</resources>
